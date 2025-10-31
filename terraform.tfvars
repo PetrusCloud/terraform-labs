@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+ami           = "ami-0c9c917c544c180e8"
+instance_name = "terraform-lab-ec2"
+instance_type = "t2.small"
+key_name      = "mimi237"
